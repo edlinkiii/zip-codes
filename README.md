@@ -6,6 +6,7 @@ Personally, I will be using this data to draw zip code areas on a Google Map.
 This data will be stored in a database eventually as it is still pretty massive after conversion.
 
 Output file will contain an array of objects:
+
 `
 [
   {
@@ -19,8 +20,11 @@ Output file will contain an array of objects:
       ["-ZZ.ZZZZZ,WW.WWWWW", ... ]
     ]
   },
+  ...
 ]
 `
+
+Console output: `Processed 33144 zip codes in 13 seconds`
 
 Commercial products are available that offer this same data, but this is free!
 

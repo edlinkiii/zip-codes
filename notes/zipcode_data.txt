@@ -1,0 +1,3 @@
+Main URL: https://www.census.gov/geographies/mapping-files/time-series/geo/kml-cartographic-boundary-files.html
+
+2018 ZIP Code Tabulation Areas (ZCTAs): https://www2.census.gov/geo/tiger/GENZ2018/kml/cb_2018_us_zcta510_500k.zip

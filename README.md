@@ -10,7 +10,7 @@ Output file will contain an array of objects:
 [
   {
     ZipCode: "00001",
-    Coordinates: ["-XX.XXXXX,XX.XXXXX","-YY.YYYYY,YY.YYYYY]
+    Coordinates: ["-XX.XXXXX,XX.XXXXX","-YY.YYYYY,YY.YYYYY", ... ]
   },
   {
     ZipCode: "00002",
@@ -23,3 +23,5 @@ Output file will contain an array of objects:
 `
 
 Commercial products are available that offer this same data, but this is free!
+
+Props to [Stefan Goessner](http://goessner.net/) for the [xml2json](https://goessner.net/download/prj/jsonxml/) function
